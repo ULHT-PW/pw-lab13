@@ -4,7 +4,7 @@
 2. integração no site dos laboratórios desenvolvidos.
 3. gravação de vídeo
 
-video deverá ter:
+No vídeo deverá mostrar:
 * website a correr no pythonanywhere e suas páginas
 * classes criadas em models.py
 * página admin com tabelas e dados
