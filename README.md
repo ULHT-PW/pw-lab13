@@ -1,5 +1,8 @@
 # pw-lab13
 
+**Objetivo**
+Neste ultimo lab irá incluir um nova funcionalidade de web scrapping, e garantir que todos os conteúdos desenvolvidos ao longo do semestre constam no seu protfolio. 
+
 ### 1. Web scrapping
 * crie uma pagina que mostra resultados num gráfico de dados extraidos periódicamente (cada hora ou dia) de uma página web pública, usando web scrapping.
 * deverá armazenar os dados recolhidos numa tabela da base de dados e manter atualizado 
