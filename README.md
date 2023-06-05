@@ -2,7 +2,9 @@
 
 1. integração de todos os conteúdos do portfolio 1 neste website, como views simples. 
 2. integração no site dos laboratórios desenvolvidos.
-3. gravação de vídeo
+3. criação de pagina que mostra resultados de dados extraidos periódicamente de uma página, usando webscrapping.
+3. gravação de vídeo, colocação no youtube e colocação em iframe na página que apresenta os aspectos tecnológicos do website.
+
 
 No vídeo deverá mostrar:
 * website a correr no pythonanywhere e suas páginas
