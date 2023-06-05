@@ -1,11 +1,18 @@
 # pw-lab13
 
-1. integração de todos os conteúdos do portfolio 1 neste website, como views simples. 
-2. integração no site dos laboratórios desenvolvidos.
-3. criação de pagina que mostra resultados de dados extraidos periódicamente de uma página, usando webscrapping.
-3. gravação de vídeo, colocação no youtube e colocação em iframe na página que apresenta os aspectos tecnológicos do website.
+### 1. Web scrapping
+* crie uma pagina que mostra resultados num gráfico de dados extraidos periódicamente (cada hora ou dia) de uma página web pública, usando web scrapping.
+* deverá armazenar os dados recolhidos numa tabela da base de dados e manter atualizado 
+* deverá apresentar os dados num gráfico
 
+### 2. Integração de conteúdos da parte 1 do projeto
+* integração de todos os conteúdos do portfolio 1 neste website, como views simples. 
 
+### 3. Integração dos labs desenvolvidos
+* integração no site dos laboratórios desenvolvidos.
+
+### 4. Vídeo
+Grave um vídeo que demonstre o seu projeto. Coloque-o no youtube, e numa iframe na página que apresenta os aspectos tecnológicos do website.
 No vídeo deverá mostrar:
 * website a correr no pythonanywhere e suas páginas
 * classes criadas em models.py
