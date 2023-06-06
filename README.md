@@ -1,7 +1,8 @@
 # pw-lab13
 
-**Objetivo**
-Neste ultimo lab irá incluir um nova funcionalidade de web scrapping, e garantir que todos os conteúdos desenvolvidos ao longo do semestre constam no seu protfolio. 
+**Objetivo:**
+
+Neste último lab, continuação dos anteriores, irá incluir um nova funcionalidade de web scrapping, e garantir que todos os conteúdos desenvolvidos ao longo do semestre constam no seu protfolio. 
 
 ### 1. Web scrapping
 * crie uma pagina que mostra resultados num gráfico de dados extraidos periódicamente (cada hora ou dia) de uma página web pública, usando web scrapping.
@@ -9,10 +10,10 @@ Neste ultimo lab irá incluir um nova funcionalidade de web scrapping, e garanti
 * deverá apresentar os dados num gráfico
 
 ### 2. Integração de conteúdos da parte 1 do projeto
-* integração de todos os conteúdos do portfolio 1 neste website, como views simples. 
+* integre nesta aplicação todos os conteúdos e layout-design do portfólio 1/lab5. 
 
 ### 3. Integração dos labs desenvolvidos
-* integração no site dos laboratórios desenvolvidos.
+* integre no site, numa página de laboratórios, os laboratórios desenvolvidos em Programação Web (labs 1-4).
 
 ### 4. Vídeo
 Grave um vídeo que demonstre o seu projeto. Coloque-o no youtube, e numa iframe na página que apresenta os aspectos tecnológicos do website.
