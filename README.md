@@ -10,12 +10,15 @@ Neste último lab, continuação dos anteriores, irá incluir um nova funcionali
 * deverá apresentar os dados num gráfico
 
 ### 2. Integração de conteúdos da parte 1 do projeto
-* integre nesta aplicação todos os conteúdos e layout-design do portfólio 1/lab5. 
+* integre nesta aplicação todos os conteúdos e layout-design do portfólio 1/lab5.
 
-### 3. Integração dos labs desenvolvidos
+### 3. Formulários
+* À semelhança da aplicação Tarefas, os conteúdos que existem armazenados na base de dados (disciplinas, projetos, tfcs) devem ser editáveis com operações CRUD atraveés de formulãrios, e não via modo admin.
+
+### 4. Integração dos labs desenvolvidos
 * integre no site, numa página de laboratórios, os laboratórios desenvolvidos em Programação Web (labs 1-4).
 
-### 4. Vídeo
+### 5. Vídeo
 Grave um vídeo que demonstre o seu projeto. Coloque-o no youtube, e numa iframe na página que apresenta os aspectos tecnológicos do website.
 No vídeo deverá mostrar:
 * website a correr no pythonanywhere e suas páginas
