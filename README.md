@@ -13,7 +13,7 @@ Neste último lab, continuação dos anteriores, irá incluir um nova funcionali
 * integre nesta aplicação todos os conteúdos e layout-design do portfólio 1/lab5.
 
 ### 3. Formulários
-* À semelhança da aplicação Tarefas, os conteúdos que existem armazenados na base de dados (disciplinas, projetos, tfcs) devem ser editáveis com operações CRUD atraveés de formulãrios, e não via modo admin.
+* À semelhança da aplicação Tarefas, e tal como referido no lab.12, os conteúdos que existem armazenados na base de dados (disciplinas, projetos, tfcs) devem ser editáveis com operações CRUD através de formulários (em substituição do modo admin) se o utilizador estiver autenticado.
 
 ### 4. Integração dos labs desenvolvidos
 * integre no site, numa página de laboratórios, os laboratórios desenvolvidos em Programação Web (labs 1-4).
